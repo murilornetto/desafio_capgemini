@@ -42,7 +42,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 ```bash
 
 # Baixe os arquivos do repositório
-  baixe os arquivos em: 
+  baixe os arquivos em: https://github.com/murilornetto/desafio_capgemini.git
 
 # Acesse a pasta do projeto no terminal/cmd
   cd Capgemini

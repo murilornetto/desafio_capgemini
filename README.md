@@ -53,7 +53,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 # Compile os arquivos java
    javac *.java
 
-# Execute a aplicação 
+# Execute a aplicação com o comando
   java Main
 
 

@@ -47,7 +47,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 # Acesse a pasta do projeto no terminal/cmd
   cd Capgemini
 
-# Vá para a pasta Exercicios
+# Vá para a pasta solucao
   cd src\main\java\solucao
 
 # Compile os arquivos java

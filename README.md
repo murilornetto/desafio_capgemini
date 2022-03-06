@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-      Solução das Questões
+      Solução dos Desafios 1 e 2
 
 <h4 align="center"> 
 	Status: Concluido  
@@ -26,9 +26,10 @@ Conteúdos
 
 ## Como executar o projeto
 
-Este projeto é divido em 2 partes:
-1. Classes com as soluções (pacote solucao) 
-2. Testes das Classes (pacote testes)
+Este projeto é divido em 3 partes:
+1. Classes com as soluções (pacote classes) 
+2. Testes das soluções (pacote testes)
+3. Classe Main com o sistema(pacote desafio)
 
 
 ### Pré-requisitos
@@ -44,11 +45,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 # Baixe os arquivos do repositório
   baixe os arquivos em: https://github.com/murilornetto/desafio_capgemini.git
 
-# Acesse a pasta do projeto no terminal/cmd
-  cd Capgemini
+# Crie uma pasta e coloque os arquivos que se encontram em:src\main\java\desafio01 nessa pasta 
 
-# Vá para a pasta solucao
-  cd src\main\java\solucao
+# Crie uma pasta e coloque os arquivos que se encontram em:src\main\java\desafio02 nessa pasta 
+	
+# Acesse a pasta criada pelo terminal/cmd
+  cd nome_pasta_criada
 
 # Compile os arquivos java
    javac *.java

@@ -29,7 +29,7 @@ Conteúdos
 Este projeto é divido em 3 partes:
 1. Classes com as soluções (pacote classes) 
 2. Testes das soluções (pacote testes)
-3. Classe Main com o sistema(pacote desafio)
+3. Classe Main com o sistema (pacote desafio)
 
 
 ### Pré-requisitos
@@ -45,19 +45,19 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 # Baixe os arquivos do repositório
   baixe os arquivos em: https://github.com/murilornetto/desafio_capgemini.git
 
-# Crie uma pasta e coloque os arquivos que se encontram em:src\main\java\desafio01 nessa pasta 
+# Crie uma pasta e coloque os arquivos .java que se encontram em:src\main\java\desafio01 nessa pasta 
 
-# Crie uma pasta e coloque os arquivos que se encontram em:src\main\java\desafio02 nessa pasta 
+# Crie uma pasta e coloque os arquivos .java que se encontram em:src\main\java\desafio02 nessa pasta 
 	
 # Acesse a pasta criada pelo terminal/cmd
   cd nome_pasta_criada
+  exemplo: C:\Users\nome_usuario\eclipse-workspace
 
 # Compile os arquivos java
    javac *.java
 
 # Execute a aplicação com o comando
-  java Main
-
+  java Main 
 
 
 ##  Tecnologias 

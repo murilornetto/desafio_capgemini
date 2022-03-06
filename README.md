@@ -50,8 +50,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 # Crie uma pasta e coloque os arquivos .java que se encontram em:src\main\java\desafio02 nessa pasta 
 	
 # Acesse a pasta criada pelo terminal/cmd
-  cd nome_pasta_criada
-  exemplo: C:\Users\nome_usuario\eclipse-workspace
+  cd 
+  exemplo: cd C:\Users\nome_usuario\nome_pasta_criada
 
 # Compile os arquivos java
    javac *.java
